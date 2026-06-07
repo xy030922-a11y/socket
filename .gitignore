@@ -1,0 +1,24 @@
+# build directory
+build/
+cmake-build-*/
+
+# object files
+*.o
+*.obj
+
+# shared/static libraries
+*.so
+*.a
+*.dll
+*.lib
+
+# executable files
+server
+client
+main
+test
+a.out
+
+# editor files
+.vscode/
+.idea/
